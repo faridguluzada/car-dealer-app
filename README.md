@@ -10,10 +10,10 @@ This application, built with Next.js, allows users to filter vehicles by type an
 - **Dynamic Results**: Displays filtered vehicles on a separate page with dynamic URLs.
 - **Responsive UI**: Adapts to various screen sizes and devices.
 
-
 ### Installation
 
 1. Clone and navigate to the repository:
    ```bash
-   git clone https://github.com/faridguluzada/car-dealer.git
-   cd car-dealer
+   git clone https://github.com/faridguluzada/car-dealer-app.git
+   cd car-dealer-app
+   ```
